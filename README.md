@@ -7,7 +7,7 @@ This is a recommendation tool that will make recommendations to contributors acc
 - Frontend: https://github.com/Kartiksaini001/github-recommender-frontend
 - Backend: https://github.com/Kartiksaini001/github-recommender-backend
 
-Live Preview is available at: <HostingLink>
+Live Preview is available at: https://collab-hub.netlify.app/
 
 ## Implementation Details
 
